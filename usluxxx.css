@@ -44,22 +44,7 @@ li {list-style-type:none;}
 .cb-slideshow li:nth-child(1) span {
 	background-image: url(https://thumbs.gfycat.com/LeftTornBoaconstrictor-max-1mb.gif)
 }
-.cb-slideshow li:nth-child(2) span {
-	background-image: url( );
-	-webkit-animation-delay: 0s;
-	-moz-animation-delay: 0s;
-	-o-animation-delay: 0s;
-	-ms-animation-delay: 0s;
-	animation-delay: 0s;
-}
-.cb-slideshow li:nth-child(3) span {
-	background-image: url( );
-	-webkit-animation-delay: 0s;
-	-moz-animation-delay: 0s;
-	-o-animation-delay: 0s;
-	-ms-animation-delay: 0s;
-	animation-delay: 0s;
-}
+
 @-webkit-keyframes imageAnimation { 
 	0% {
 	    opacity: 0;
