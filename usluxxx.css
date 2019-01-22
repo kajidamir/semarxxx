@@ -47,17 +47,17 @@ li {list-style-type:none;}
 .cb-slideshow li:nth-child(2) span {
 	background-image: url( );
 	-webkit-animation-delay: 0s;
-	-moz-animation-delay: 10s;
-	-o-animation-delay: 10s;
-	-ms-animation-delay: 10s;
+	-moz-animation-delay: 0s;
+	-o-animation-delay: 0s;
+	-ms-animation-delay: 0s;
 	animation-delay: 0s;
 }
 .cb-slideshow li:nth-child(3) span {
 	background-image: url( );
 	-webkit-animation-delay: 0s;
-	-moz-animation-delay: 20s;
-	-o-animation-delay: 20s;
-	-ms-animation-delay: 20s;
+	-moz-animation-delay: 0s;
+	-o-animation-delay: 0s;
+	-ms-animation-delay: 0s;
 	animation-delay: 0s;
 }
 @-webkit-keyframes imageAnimation { 
