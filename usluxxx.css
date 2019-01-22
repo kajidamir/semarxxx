@@ -46,7 +46,7 @@ li {list-style-type:none;}
 }
 .cb-slideshow li:nth-child(2) span {
 	background-image: url( );
-	-webkit-animation-delay: 10s;
+	-webkit-animation-delay: 0s;
 	-moz-animation-delay: 10s;
 	-o-animation-delay: 10s;
 	-ms-animation-delay: 10s;
@@ -54,7 +54,7 @@ li {list-style-type:none;}
 }
 .cb-slideshow li:nth-child(3) span {
 	background-image: url( );
-	-webkit-animation-delay: 20s;
+	-webkit-animation-delay: 0s;
 	-moz-animation-delay: 20s;
 	-o-animation-delay: 20s;
 	-ms-animation-delay: 20s;
