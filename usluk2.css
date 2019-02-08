@@ -45,7 +45,7 @@ li {list-style-type:none;}
 	background-image: url(https://thumbs.gfycat.com/LeftTornBoaconstrictor-max-1mb.gif)
 }
 .cb-slideshow li:nth-child(2) span {
-	background-image: url(https://media.giphy.com/media/PoK82gaWIl3C0pjKhu/giphy.gif);
+	background-image: url(https://media.giphy.com/media/iqHqnfbOEk0BFx5nWN/giphy.gif);
 	-webkit-animation-delay: 10s;
 	-moz-animation-delay: 10s;
 	-o-animation-delay: 10s;
@@ -53,7 +53,7 @@ li {list-style-type:none;}
 	animation-delay: 10s;
 }
 .cb-slideshow li:nth-child(3) span {
-	background-image: url(https://media.giphy.com/media/iqHqnfbOEk0BFx5nWN/giphy.gif);
+	background-image: url(https://media.giphy.com/media/PoK82gaWIl3C0pjKhu/giphy.gif);
 	-webkit-animation-delay: 20s;
 	-moz-animation-delay: 20s;
 	-o-animation-delay: 20s;
